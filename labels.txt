@@ -1,0 +1,24 @@
+Ripe Apple
+Ripe Banana
+Ripe Dragon Fruit
+Ripe Grape
+Ripe Lemon
+Ripe Mango
+Ripe Orange
+Ripe Papaya
+Ripe Pineapple
+Ripe Pomegranate
+Unripe Strawberry
+Unripe Apple
+Unripe Banana
+Unripe Dragon Fruit
+Unripe Grape
+Unripe Lemon
+Unripe Mango
+Unripe Orange
+Unripe Papaya
+Unripe Pineapple
+Unripe Pomegranate
+Unripe Strawberry
+
+
