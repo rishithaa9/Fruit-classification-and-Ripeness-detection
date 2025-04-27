@@ -10,6 +10,7 @@ Web Interface: A Flask-based web application for uploading images or using a liv
 Data Augmentation: Enhances model robustness with techniques like rotation, flipping, and zooming.
 High Accuracy: Achieves over 92% validation accuracy on the fruit classification and ripeness detection tasks.
 
+Requirements
 Python 3.8+
 TensorFlow 2.5+
 Keras
@@ -18,17 +19,12 @@ Flask
 Selenium
 NumPy
 Matplotlib
-Pillow
-
-Installation
 
 Clone the Repository:
 git clone https://github.com/rishithaa9/Fruit-classification-and-Ripeness-detection.git
 cd Fruit-classification-and-Ripeness-detection
 
 
-Install Dependencies:
-pip install -r requirements.txt
 
 
 Download the Dataset:
